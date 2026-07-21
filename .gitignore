@@ -1,0 +1,7 @@
+.agents/
+node_modules/
+.next/
+out/
+.env
+.env.local
+.local-registry.json

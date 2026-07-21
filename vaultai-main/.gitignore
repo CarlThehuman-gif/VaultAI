@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.local
+.local-registry.json
+__pycache__/
+*.pyc
+tx-dump*.json
+arc-contracts/artifacts/
+arc-contracts/cache/
+arc-contracts/deploy_log.txt
+arc-contracts/deployed_address.txt
+vaultai-dashboard/.next/
+vaultai-dashboard/out/
